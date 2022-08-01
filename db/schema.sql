@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS techNewsdb;
+
+CREATE DATABASE techNewsdb;
